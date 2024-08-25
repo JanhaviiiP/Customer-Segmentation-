@@ -27,7 +27,13 @@ In this project, we focus on analyzing customer data to identify distinct segmen
 
 
 
+
+
+
 **Key Performance Indicators (KPIs)**
+
+
+
 
 ![image](https://github.com/user-attachments/assets/42313070-22f6-423d-b856-f324a23ef09f)
 
