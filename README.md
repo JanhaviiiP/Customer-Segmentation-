@@ -19,7 +19,7 @@ In this project, we focus on analyzing customer data to identify distinct segmen
   
 - Balancing competing demands and priorities.
   
--Delivering results quickly while maintaining accuracy.
+- Delivering results quickly while maintaining accuracy.
 
 
 
